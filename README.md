@@ -1,34 +1,56 @@
-🌟 Portfolio Builder 🌟
-Your ultimate solution to create stunning, personalized portfolios in minutes!
+# 🌟 EZFOLIO - The Portfolio Builder 🌟
+
+**Your ultimate solution to create stunning, personalized portfolios in minutes!**  
 This project is designed to help users build customizable and professional-looking portfolios, whether you're a developer, designer, or creative professional.
 
-[EZFOLIO](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/c8ee864b34b2d641e08a452ddf24391d5128ba6e/Screenshot%202024-11-24%20183836.png)
+![EZFOLIO](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/6f7d443e05937d7f3ffeb4cfaa4fe9bf158c5f62/Screenshot%202024-11-24%20183836.png)
 
-✨ Features
-🖼️ Customizable Themes: Choose from modern and creative portfolio themes.
-🛠️ Drag-and-Drop Builder: An intuitive interface to customize content and layouts.
-🌐 Download function: Download your portfolio with a single click.
-🔒 Responsive Design: Portfolios look amazing on all devices—desktop, tablet, and mobile.
-🚀 Tech Stack
+---
+
+## ✨ Features
+- 🖼️ **Customizable Themes**: Choose from modern and creative portfolio themes.
+- 🛠️ **Drag-and-Drop Builder**: An intuitive interface to customize content and layouts.
+- 🌐 **Download Function**: Download your portfolio with a single click.
+- 🔒 **Responsive Design**: Portfolios look amazing on all devices—desktop, tablet, and mobile.
+
+---
+
+## 🚀 Tech Stack
 This project is built with:
+- **Frontend**: CSS, JavaScript, TailwindCSS, TypeScript.
+- **Backend**: Next.js.
+- **Other Tools**: TypeScript and React.
 
-Frontend: CSS, JavaScript, TailwindCSS, Typescript.
-Backend: Next.js.
-Other Tools: .
-📸 Screenshots
-🌐 Homepage
+---
 
-Description: A sleek and modern landing page for the Portfolio Builder.
+## 📸 Screenshots
+### 🌐 Homepage  
+![](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/6f7d443e05937d7f3ffeb4cfaa4fe9bf158c5f62/Screenshot%202024-11-24%20150853.png)
+*Description: A sleek and modern landing page for the Portfolio Builder. Click on the Create Portfolio to start creating your own portfolio*
 
-🎨 Portfolio Templates
+![](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/6f7d443e05937d7f3ffeb4cfaa4fe9bf158c5f62/Screenshot%202024-11-24%20151227.png)
 
-Description: Showcase some of the portfolio designs available.
+### 🎨 Portfolio Themes
+![](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/6f7d443e05937d7f3ffeb4cfaa4fe9bf158c5f62/Screenshot%202024-11-24%20183416.png)
+*Description: Showcase some of the portfolio themes available.*
 
-🎯 How It Works
-Sign Up or Log In: Create an account to save and manage your portfolios.
-Customize: Use the drag-and-drop builder to add sections like "About Me," "Projects," "Skills," and more.
-Upload Assets: Add your resume, images, and other media files.
-Publish: Generate your portfolio and share it via a custom link or downloadable PDF.
+---
+
+## 🎯 How It Works
+1. **Customize**: Use the drag-and-drop builder to add sections like "About Me," "Projects," "Skills," and more.
+2. **Upload Details**: Add your details, links, images, and other media files.
+3. **Download**: Generate your portfolio and share it via a custom link or downloadable PDF.
+
+---
+
+## 🛠️ Installation
+
+Follow these steps to set up the project locally:
+
+Clone the repository:
+git clone https://github.com/your-username/portfolio-builder.git
+cd portfolio-builder
+
 🛠️ Installation
 Follow these steps to set up the project locally:
 
@@ -47,19 +69,19 @@ http://localhost:3000
 
 📚 Usage
 Click On the Create portfolio button.
-[](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/c8ee864b34b2d641e08a452ddf24391d5128ba6e/Screenshot%202024-11-24%20150853.png)
+![](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/c8ee864b34b2d641e08a452ddf24391d5128ba6e/Screenshot%202024-11-24%20150853.png)
 
 Fill the details and click next:
-[](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/c8ee864b34b2d641e08a452ddf24391d5128ba6e/Screenshot%202024-11-24%20182847.png)
+![](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/c8ee864b34b2d641e08a452ddf24391d5128ba6e/Screenshot%202024-11-24%20182847.png)
 
 Choose theme color for your portfolio: 
-[](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/c8ee864b34b2d641e08a452ddf24391d5128ba6e/Screenshot%202024-11-24%20183416.png)
+![](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/c8ee864b34b2d641e08a452ddf24391d5128ba6e/Screenshot%202024-11-24%20183416.png)
 
 Download your portfolio:
-[](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/c8ee864b34b2d641e08a452ddf24391d5128ba6e/Screenshot%202024-11-24%20183436.png)
+![](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/c8ee864b34b2d641e08a452ddf24391d5128ba6e/Screenshot%202024-11-24%20183436.png)
 
 Explore the source code to learn about portfolio customization.
-[!Live Demo](https://ezfolio-portfolio-builder.vercel.app/)
+[Live Demo](https://ezfolio-portfolio-builder.vercel.app/)
 
 Contribute by adding new templates, features, or bug fixes.
 🤝 Contributing
@@ -87,5 +109,5 @@ This project is licensed under the MIT License.
 📧 Contact
 For feedback or inquiries, feel free to reach out:
 
-Email: sauhard.kaushik_cs22@gla.ac.in
-LinkedIn: 
+Email : sauhard.kaushik_cs22@gla.ac.in
+[LinkedIn](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/6f7d443e05937d7f3ffeb4cfaa4fe9bf158c5f62/Screenshot%202024-11-24%20183416.png)
