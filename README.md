@@ -108,6 +108,7 @@ This project is licensed under the MIT License.
 
 📧 Contact
 For feedback or inquiries, feel free to reach out:
+![Team](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/9956bec4a5bc91a2376ed6c555113a77ce6155c6/image.png)
 
 Email : sauhard.kaushik_cs22@gla.ac.in
 [LinkedIn](https://github.com/Sauhard04/EZFOLIO-PORTFOLIO_BUILDER/blob/6f7d443e05937d7f3ffeb4cfaa4fe9bf158c5f62/Screenshot%202024-11-24%20183416.png)
